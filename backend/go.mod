@@ -1,4 +1,4 @@
-module github.com/thefonzie-codes/sales-tool
+module github.com/thefonzie-codes/sales-tool/backend
 
 go 1.23.3
 

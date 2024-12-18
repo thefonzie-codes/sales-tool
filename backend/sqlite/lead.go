@@ -6,7 +6,7 @@ import (
     "time"
 
     "github.com/google/uuid"
-    "github.com/thefonzie-codes/sales-tracker/models" // Change this import path accordingly
+    "github.com/thefonzie-codes/sales-tracker/backend/models" // Change this import path accordingly
 )
 
 // CreateLead adds a new lead to the database
